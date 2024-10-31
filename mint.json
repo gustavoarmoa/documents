@@ -17,23 +17,23 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Suporte",
+      "url": "mailto:ajuda@norbaas.com.br"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://dashboard.norbaas.com.br"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Referencia da API",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentação",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -45,12 +45,12 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://norbaas.com.br/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Inicio",
       "pages": [
         "introduction",
         "quickstart",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Básicos",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -69,13 +69,13 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Documentação da API",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Endpoint de exemplos",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
